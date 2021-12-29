@@ -1,2 +1,2 @@
 # Friday-13th-
-Download Frdiay 13th for PC
+Download Friday 13th (Only PC)
