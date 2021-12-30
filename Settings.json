@@ -1,0 +1,9 @@
+{
+	"title"											: "Friday the 13th: The Game",
+	"executable"									: "SummerCamp\\Binaries\\Win64\\SummerCamp.exe",
+	"parameters"									: "",
+	"use_cmdline_parameters"						: "1",
+	"wait_for_game_process_exit"					: "0",
+	"hide_splash_screen"							: "0",
+	"hide_ui_controls"								: "0"
+}
